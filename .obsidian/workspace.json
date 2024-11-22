@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31faf8724c3ba85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001. 최종코딩테스트/04. 계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04. 계획"
-            }
-          },
-          {
-            "id": "d0fd3a0e4808c943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002. 가이드북/소감문.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "소감문"
-            }
-          },
-          {
             "id": "2a7ecc43cc1a4d4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002. 가이드북/CommonJS와 ES Module 비교 정리.md",
+                "file": "002. 가이드북/handBook.소감문.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CommonJS와 ES Module 비교 정리"
+              "title": "handBook.소감문"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002. 가이드북/CommonJS와 ES Module 비교 정리.md",
+                "file": "002. 가이드북/handBook.소감문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CommonJS와 ES Module 비교 정리의 백링크"
+              "title": "handBook.소감문의 백링크"
             }
           },
           {
@@ -141,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002. 가이드북/CommonJS와 ES Module 비교 정리.md",
+                "file": "002. 가이드북/handBook.소감문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CommonJS와 ES Module 비교 정리의 나가는 링크"
+              "title": "handBook.소감문의 나가는 링크"
             }
           },
           {
@@ -168,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002. 가이드북/CommonJS와 ES Module 비교 정리.md"
+                "file": "002. 가이드북/handBook.소감문.md"
               },
               "icon": "lucide-list",
-              "title": "CommonJS와 ES Module 비교 정리 개요"
+              "title": "handBook.소감문 개요"
             }
           }
         ]
@@ -192,14 +163,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb2158820c15cde",
+  "active": "2a7ecc43cc1a4d4b",
   "lastOpenFiles": [
-    "002. 가이드북/특정 파일 커밋 제외하기(package.json).md",
+    "001. 최종코딩테스트/03. 문제 풀이.md",
+    "002. 가이드북/handBook.소감문.md",
     "002. 가이드북/CommonJS와 ES Module 비교 정리.md",
-    "002. 가이드북/소감문.md",
+    "002. 가이드북/특정 파일 커밋 제외하기(package.json).md",
     "001. 최종코딩테스트/04. 계획.md",
     "001. 최종코딩테스트/01. 준비해갈 것.md",
-    "001. 최종코딩테스트/03. 문제 풀이.md",
     "2024-11-21.md",
     "무제 파일.canvas"
   ]

@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "edbb7978d1220cfb",
+        "id": "19a7e4aca452b103",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b3935349b5278e",
+            "id": "56530f564d3db8ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002. 가이드북/handBook.소감문.md",
+                "file": "003. 문제풀이/02. 자동차 경주.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "handBook.소감문"
+              "title": "02. 자동차 경주"
+            }
+          },
+          {
+            "id": "6a5b1d4df15b2b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001. 최종코딩테스트/05. 문제 풀이 루틴과 시간 배분.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. 문제 풀이 루틴과 시간 배분"
             }
           }
         ]
@@ -73,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,16 +177,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efae97459cd91444",
+  "active": "56530f564d3db8ef",
   "lastOpenFiles": [
-    "001. 최종코딩테스트/01. 준비해갈 것.md",
-    "002. 가이드북/handBook.README.md",
+    "003. 문제풀이/01. 문자열 계산기.md",
+    "003. 문제풀이/02. 자동차 경주.md",
     "002. 가이드북/handBook.함수 이름.md",
     "001. 최종코딩테스트/05. 문제 풀이 루틴과 시간 배분.md",
+    "003. 문제풀이/00. 문제 풀이 루틴.md",
+    "002. 가이드북/handBook.README.md",
+    "003. 문제풀이/001..md",
+    "003. 문제풀이",
+    "001. 최종코딩테스트/03. 문제 풀이.md",
+    "001. 최종코딩테스트/02. 테스트 코드.md",
+    "002. 가이드북/handBook.테스트코드.md",
+    "002. 가이드북/CommonJS와 ES Module 비교 정리.md",
     "002. 가이드북/handBook.소감문.md",
     "001. 최종코딩테스트/04. 계획.md",
-    "001. 최종코딩테스트/03. 문제 풀이.md",
-    "002. 가이드북/CommonJS와 ES Module 비교 정리.md",
+    "001. 최종코딩테스트/01. 준비해갈 것.md",
     "002. 가이드북/특정 파일 커밋 제외하기(package.json).md",
     "2024-11-21.md",
     "무제 파일.canvas"

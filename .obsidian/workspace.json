@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003. 문제풀이/02. 자동차 경주.md",
+                "file": "001. 최종코딩테스트/04. 계획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. 자동차 경주"
+              "title": "04. 계획"
             }
           },
           {
-            "id": "6a5b1d4df15b2b5d",
+            "id": "92940863ab4790f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001. 최종코딩테스트/05. 문제 풀이 루틴과 시간 배분.md",
+                "file": "003. 문제풀이/04. 개발자 비상근무.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. 문제 풀이 루틴과 시간 배분"
+              "title": "04. 개발자 비상근무"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,23 +178,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56530f564d3db8ef",
+  "active": "92940863ab4790f5",
   "lastOpenFiles": [
-    "003. 문제풀이/01. 문자열 계산기.md",
     "003. 문제풀이/02. 자동차 경주.md",
-    "002. 가이드북/handBook.함수 이름.md",
-    "001. 최종코딩테스트/05. 문제 풀이 루틴과 시간 배분.md",
+    "003. 문제풀이/04. 개발자 비상근무.md",
+    "003. 문제풀이/03. 점심 메뉴.md",
     "003. 문제풀이/00. 문제 풀이 루틴.md",
+    "001. 최종코딩테스트/01. 준비해갈 것.md",
+    "001. 최종코딩테스트/04. 계획.md",
+    "002. 가이드북/handBook.함수 이름.md",
+    "002. 가이드북/handBook.테스트코드.md",
+    "002. 가이드북/handBook.소감문.md",
+    "001. 최종코딩테스트/05. 문제 풀이 루틴과 시간 배분.md",
+    "003. 문제풀이/01. 문자열 계산기.md",
+    "001. 최종코딩테스트/03. 문제 풀이.md",
     "002. 가이드북/handBook.README.md",
     "003. 문제풀이/001..md",
     "003. 문제풀이",
-    "001. 최종코딩테스트/03. 문제 풀이.md",
     "001. 최종코딩테스트/02. 테스트 코드.md",
-    "002. 가이드북/handBook.테스트코드.md",
     "002. 가이드북/CommonJS와 ES Module 비교 정리.md",
-    "002. 가이드북/handBook.소감문.md",
-    "001. 최종코딩테스트/04. 계획.md",
-    "001. 최종코딩테스트/01. 준비해갈 것.md",
     "002. 가이드북/특정 파일 커밋 제외하기(package.json).md",
     "2024-11-21.md",
     "무제 파일.canvas"
